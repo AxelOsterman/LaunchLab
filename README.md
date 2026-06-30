@@ -1,8 +1,8 @@
-# TrajectorySim
+# LaunchLab
 
-A Python-based projectile motion simulator that models and visualizes the flight of a projectile under different physical conditions using numerical methods.
+A Python-based projectile motion simulator that models and visualises the flight of a projectile under different physical conditions using numerical methods.
 
-The project demonstrates scientific computing concepts including numerical integration, object-oriented design, and data visualization with NumPy and Matplotlib.
+The project demonstrates scientific computing concepts including numerical integration, object-oriented design, and data visualisation with NumPy and Matplotlib.
 
 ---
 
@@ -39,7 +39,7 @@ Numerical integration is performed using a fixed time-step method.
 
 ## Project Structure
 
-trajectory_sim/
+LaunchLab/
 │
 ├── main.py              # Entry point (CLI / experiment runner)
 ├── simulation.py       # Core simulation loop
